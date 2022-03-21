@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <firstname>jeff</firstname>
+    <lastname>bezos</lastname>
+    <score>12</score>
+  </Student>
+  <Student>
+    <firstname>iron</firstname>
+    <lastname>man</lastname>
+    <score>5</score>
+  </Student>
+  <Student>
+    <firstname>spider</firstname>
+    <lastname>man</lastname>
+    <score>45</score>
+  </Student>
+  <Student>
+    <firstname>steve</firstname>
+    <lastname>jobs</lastname>
+    <score>3</score>
+  </Student>
+  <Student>
+    <firstname>leo</firstname>
+    <lastname>bini</lastname>
+    <score>50</score>
+  </Student>
+</ArrayOfStudent>
